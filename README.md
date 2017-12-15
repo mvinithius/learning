@@ -1,3 +1,19 @@
+CONSTANTS.H
+
+#pragma once
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+namespace constants
+{
+	const double gravitity{ 9.8 };
+
+}
+#endif 
+
+
+MAIN.CPP
+
 #include "stdafx.h"
 #include "constants.h"
 #include <iostream>
