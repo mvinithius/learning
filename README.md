@@ -1,4 +1,4 @@
-CONSTANTS.H
+constants.h
 
 #pragma once
 #ifndef CONSTANTS_H
@@ -12,7 +12,7 @@ namespace constants
 #endif 
 
 
-MAIN.CPP
+main.cpp
 
 #include "stdafx.h"
 #include "constants.h"
